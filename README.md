@@ -4,9 +4,10 @@ Some notes.
 
 ## Content
 
-### Node.js
+### JavaScript
 
-* [Memory Leak Example](https://github.com/cettoana/examples/blob/master/node/memory-leak)
+* [Memory Leak Example](https://github.com/cettoana/examples/blob/master/javascript/memory-leak)
+* [Class Private Fields](https://github.com/cettoana/examples/blob/master/javascript/private-fields)
 
 ### Build System
 

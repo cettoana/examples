@@ -1,0 +1,16 @@
+{
+  "name": "private-fields",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/node": "^7.2.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.3.4"
+  }
+}
